@@ -10,6 +10,4 @@ An endless android mini game that uses your voice for controls. The goal is to c
 <br>
 Created in Unity 2021<br>
 Runs on Android 5.1 and above<br>
-<br>
-APK Download Link:<br>
-https://drive.google.com/file/d/1HW6Lo5vQRJQa1gBr8zMgxb0Yqgz4bgmT/view?usp=share_link<br>
+
